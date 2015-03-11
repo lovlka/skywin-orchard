@@ -1,0 +1,11 @@
+﻿Name: SkyWin
+AntiForgery: enabled
+Author: Victor Stodell
+Website: http://victor.stodell.se
+Version: 1.0
+OrchardVersion: 1.0
+Description: Orchard module for SkyWin
+Features:
+    SkyWin:
+        Description: Orchard module for SkyWin
+        Category: SkyWin
